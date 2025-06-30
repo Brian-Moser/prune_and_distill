@@ -82,6 +82,19 @@ for FFHQ experiments and
 for random initialization.
 
 ## References
+If you find this repo helpful, please acknowledge us in your work:
+
+
+```
+@article{moser2024distill,
+  title={Distill the Best, Ignore the Rest: Improving Dataset Distillation with Loss-Value-Based Pruning},
+  author={Moser, Brian B and Raue, Federico and Nauen, Tobias C and Frolov, Stanislav and Dengel, Andreas},
+  journal={arXiv preprint arXiv:2411.12115},
+  year={2024}
+}
+```
+
+
 The work is based on LD3M and GLaD, please acknowledge this and their work accordingly:
 
 ```
