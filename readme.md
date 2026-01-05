@@ -86,12 +86,16 @@ If you find this repo helpful, please acknowledge us in your work:
 
 
 ```
-@article{moser2024distill,
-  title={Distill the Best, Ignore the Rest: Improving Dataset Distillation with Loss-Value-Based Pruning},
-  author={Moser, Brian B and Raue, Federico and Nauen, Tobias C and Frolov, Stanislav and Dengel, Andreas},
-  journal={arXiv preprint arXiv:2411.12115},
-  year={2024}
-}
+@INPROCEEDINGS{11229108,
+  author={Moser, Brian B. and Raue, Federico and Nauen, Tobias C. and Frolov, Stanislav and Dengel, Andreas},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Distill the Best, Ignore the Rest: A Study in Latent Dataset Distillation on Core-Sets}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Accuracy;Scalability;Redundancy;Neural networks;Robustness;Latent Dataset Distillation;Dataset Distillation;Dataset Pruning;Generative Priors;Core-Sets},
+  doi={10.1109/IJCNN64981.2025.11229108}}
 ```
 
 
